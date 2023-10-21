@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in ...
+- 👀 I’m interested in crypto projects
 - 🌱 I’m currently learning ...
 
 <!---
